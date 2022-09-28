@@ -1,18 +1,22 @@
-<footer class="p-4 bg-zinc-900 sm:p-6 ">
+<footer class="p-4 sm:p-6" id="footer">
     <div class="mx-auto max-w-screen-xl">
         <div class="md:flex md:justify-between">
             <div class="mb-6 md:mb-0">
                 <a href="https://nextdigitalcompany.com" class="flex items-center">
-                    <img src="https://flowbite.com/docs/images/logo.svg" class="mr-3 h-8" alt="Next Logo" />
-                    <span class="self-center text-2xl font-semibold whitespace-nowrap text-white">Next</span>
+                    <!-- <img src="https://flowbite.com/docs/images/logo.svg" class="mr-3 h-8" alt="Next Logo" /> -->
+                    <span class="self-center text-2xl font-extrabold whitespace-nowrap text-white">Next</span>
                 </a>
+                <p class="text-slate-200 my-3 mr-6">Digital Marketing Agency guided by the desire to evolve.</p>
             </div>
             <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
                 <div>
                     <h2 class="mb-6 text-sm font-semibold uppercase text-white">Resources</h2>
                     <ul class="text-gray-400">
                         <li class="mb-4">
-                            <a href="https://nextdigitalcompany.com" class="hover:underline">Next</a>
+                            <a href="https://nextdigitalcompany.com" class="hover:underline">Next Digital</a>
+                        </li>
+                        <li class="mb-4">
+                            <a href="https://nextdigitalcompany.com" class="hover:underline">FAQ</a>
                         </li>
                     </ul>
                 </div>
@@ -64,3 +68,10 @@
         </div>
     </div>
 </footer>
+
+<style>
+    #footer {
+        background: rgb(43,42,45);
+        background: linear-gradient(93deg, rgb(25, 24, 26) 4%, rrgb(33, 30, 37)44%, rrgb(63, 56, 75)100%);
+    }
+</style>
