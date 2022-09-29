@@ -71,7 +71,7 @@
 
 <style>
     #footer {
-        background: rgb(43,42,45);
-        background: linear-gradient(93deg, rgb(25, 24, 26) 4%, rrgb(33, 30, 37)44%, rrgb(63, 56, 75)100%);
+        background: rgb(26, 26, 26); 
+        padding-top: 5em !important;
     }
 </style>
