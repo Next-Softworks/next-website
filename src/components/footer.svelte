@@ -6,17 +6,17 @@
                     <!-- <img src="https://flowbite.com/docs/images/logo.svg" class="mr-3 h-8" alt="Next Logo" /> -->
                     <span class="self-center text-2xl font-light whitespace-nowrap text-white hover:text-indigo-400">NEXT</span>
                 </a>
-                <p class="text-slate-400 my-3 mr-6">Digital Marketing Agency guided by the desire to evolve.</p>
+                <p class="text-slate-400 my-3 mr-6">International Digital Marketing Agency guided by the desire to evolve.</p>
             </div>
             <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
                 <div>
                     <h2 class="mb-6 text-sm font-semibold uppercase text-white">Resources</h2>
                     <ul class="text-gray-400">
                         <li class="mb-4">
-                            <a href="https://nextdigitalcompany.com" class="hover:text-slate-100">Next Digital</a>
+                            <a href="/" class="hover:text-slate-100">Next Digital</a>
                         </li>
                         <li class="mb-4">
-                            <a href="https://nextdigitalcompany.com" class="hover:text-slate-100">FAQ</a>
+                            <a href="/faq" class="hover:text-slate-100">FAQ</a>
                         </li>
                     </ul>
                 </div>

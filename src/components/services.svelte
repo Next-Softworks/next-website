@@ -1,81 +1,23 @@
-<div class="relative bg-white p-36">
-    <div class="lg:grid lg:grid-flow-row-dense lg:grid-cols-2 lg:gap-12 lg:items-center">
-        <div class="lg:col-start-2 md:pl-30">
-            <h4 class="text-4xl leading-8 font-extrabold text-gray-900 tracking-tight sm:leading-9">
-                Our Services
-            </h4>
-            <ul class="mt-10">
-                <li>
-                    <div class="flex">
-                        <div class="flex-shrink-0">
-                            <div class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
-                                <svg width="20" height="20" fill="currentColor" class="h-6 w-6" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M491 1536l91-91-235-235-91 91v107h128v128h107zm523-928q0-22-22-22-10 0-17 7l-542 542q-7 7-7 17 0 22 22 22 10 0 17-7l542-542q7-7 7-17zm-54-192l416 416-832 832h-416v-416zm683 96q0 53-37 90l-166 166-416-416 166-165q36-38 90-38 53 0 91 38l235 234q37 39 37 91z">
-                                    </path>
-                                </svg>
-                            </div>
-                        </div>
-                        <div class="ml-4">
-                            <h5 class="text-lg leading-6 text-gray-900 font-bold">
-                                Design
-                            </h5>
-                            <p class="mt-2 text-base leading-6 text-gray-500">
-                                Know everything about your business in a single glance with your new dashboard.
-                            </p>
-                        </div>
-                    </div>
-                </li>
-                <li class="mt-10">
-                    <div class="flex">
-                        <div class="flex-shrink-0">
-                            <div class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
-                                <svg width="20" height="20" fill="currentColor" class="h-6 w-6" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M491 1536l91-91-235-235-91 91v107h128v128h107zm523-928q0-22-22-22-10 0-17 7l-542 542q-7 7-7 17 0 22 22 22 10 0 17-7l542-542q7-7 7-17zm-54-192l416 416-832 832h-416v-416zm683 96q0 53-37 90l-166 166-416-416 166-165q36-38 90-38 53 0 91 38l235 234q37 39 37 91z">
-                                    </path>
-                                </svg>
-                            </div>
-                        </div>
-                        <div class="ml-4">
-                            <h5 class="text-lg leading-6 text-gray-900 font-bold">
-                                Content
-                            </h5>
-                            <p class="mt-2 text-base leading-6 text-gray-500">
-                                All your orders in one place so you can manage your delivery, collection, asap and pre-orders in one place.
-                            </p>
-                        </div>
-                    </div>
-                </li>
-                <li class="mt-10">
-                    <div class="flex">
-                        <div class="flex-shrink-0">
-                            <div class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
-                                <svg width="20" height="20" fill="currentColor" class="h-6 w-6" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M491 1536l91-91-235-235-91 91v107h128v128h107zm523-928q0-22-22-22-10 0-17 7l-542 542q-7 7-7 17 0 22 22 22 10 0 17-7l542-542q7-7 7-17zm-54-192l416 416-832 832h-416v-416zm683 96q0 53-37 90l-166 166-416-416 166-165q36-38 90-38 53 0 91 38l235 234q37 39 37 91z">
-                                    </path>
-                                </svg>
-                            </div>
-                        </div>
-                        <div class="ml-4">
-                            <h5 class="text-lg leading-6 text-gray-900 font-bold">
-                                Strategy
-                            </h5>
-                            <p class="mt-2 text-base leading-6 text-gray-500">
-                                Never miss a new order with notifications via your dashboard, by sound, and to your email and phone.
-                            </p>
-                        </div>
-                    </div>
-                </li>
-            </ul>
+<div class="bg-white py-6 sm:py-8 lg:py-12">
+    <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
+      <div class="md:h-80 flex flex-col sm:flex-row bg-slate-100 rounded-lg overflow-hidden">
+        <!-- content - start -->
+        <div class="w-full sm:w-1/2 lg:w-2/5 flex flex-col p-4 sm:p-8">
+          <h2 class="text-slate-800 text-xl md:text-2xl lg:text-4xl font-bold mb-4">We are worldwide</h2>
+  
+          <p class="max-w-md text-slate-900 mb-8">Attending in more than 100 countries at next we provide everything that you company needs to hyperscale.</p>
+  
+          <div class="mt-auto">
+            <a href="/services" class="inline-block bg-white hover:bg-gray-600 active:bg-gray-200 focus-visible:ring ring-indigo-300 text-gray-800 hover:text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">See more</a>
+          </div>
         </div>
-        <div class="mt-10 -mx-4 md:-mx-12 relative lg:mt-0 lg:col-start-1">
-            <img src="https://media.istockphoto.com/photos/griffith-observatory-during-strawberry-moon-picture-id1419389226?b=1&k=20&m=1419389226&s=170667a&w=0&h=KxfVZpJeJgWk1B9YJ1qAxRAMFQMHp_saXLBW6q_zhvE=" alt="illustration" class="relative mx-auto shadow-lg rounded-xl shadow-lg"/>
+        <!-- content - end -->
+  
+        <!-- image - start -->
+        <div class="w-full sm:w-1/2 lg:w-3/5 h-48 sm:h-auto order-first sm:order-none bg-slate-100">
+          <img src="https://images.unsplash.com/photo-1661827422905-e2c6f8e05c5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2022&q=80" loading="lazy" alt="Photo by Jakob Owens" class="w-full h-full object-cover object-center" />
         </div>
+        <!-- image - end -->
+      </div>
     </div>
-</div>
-
-<style>
-    img {
-        width: 30em;
-        height: 38em;
-    }
-</style>
+  </div>
