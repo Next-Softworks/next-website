@@ -1,4 +1,4 @@
-<section class="bg-white">
+<section class="bg-slate-100">
     <div class="py-32 px-4 mx-auto max-w-screen-xl lg:py-19 lg:px-6">
         <div class="mx-auto max-w-screen-sm text-center">
             <p class="mb-4 text-3xl tracking-tight font-bold text-gray-900 md:text-4xl">Ready to made your brand?</p>

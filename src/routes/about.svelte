@@ -30,7 +30,7 @@
   
       <div class="bg-gray-100 overflow-hidden rounded-lg shadow-lg relative mb-6 md:mb-8">
         <!-- svelte-ignore a11y-img-redundant-alt -->
-        <img src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&q=75&fit=crop&w=600&h=350" loading="lazy" alt="Photo by Minh Pham" class="w-full h-full object-cover object-center" />
+        <img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" loading="lazy" alt="Photo by krakenimages" class="w-full h-full object-cover object-center" />
       </div>
   
       <h2 class="text-gray-800 text-xl sm:text-2xl font-semibold mb-2 md:mb-4">Features</h2>
